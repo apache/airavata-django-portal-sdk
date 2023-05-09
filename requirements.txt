@@ -2,7 +2,7 @@ airavata-python-sdk==1.0.1
 bcrypt==3.1.7
 cffi==1.15.1
 cryptography==38.0.4
-Django==3.2.16
+Django==3.2.19
 djangorestframework==3.11.2
 google-api-python-client==1.12.8
 grpcio-tools==1.48.2 ; python_version < "3.7"
