@@ -27,7 +27,7 @@ setup(
         "djangorestframework",
         "airavata-python-sdk",
         # requests 2.28 drops support for Python 3.6
-        "requests < 2.28.0",
+        "requests < 2.32.0",
         "zipstream-new",
     ],
     classifiers=[
